@@ -54,7 +54,6 @@ love-sick
 deep-sea
 crisscross-row
 full-butt
-black-a-vised
 bell-faced
 self-affairs
 blink-eyed
@@ -387,7 +386,6 @@ school-teacher
 self-fertilized
 why-not
 self-esteem
-cock-a-hoop
 stem-winding
 stop-over
 long-tongued
@@ -502,11 +500,9 @@ heart-whole
 plec-tognathous
 electro-muscular
 stuck-up
-matter-of-fact
 thrum-eyed
 blear-eyed
 ill-wisher
-wait-a-bit
 goggle-eyed
 right-lined
 vitreo-electic
@@ -543,7 +539,6 @@ addle-head
 gelder-rose
 blue-eye
 slate-color
-tete-de-pont
 frogs-bit
 ear-piercer
 worldly-minded
@@ -572,8 +567,6 @@ by-wash
 acute-angled
 gilt-edge
 right-about
-hotel-de-ville
-vitro-di-trina
 ring-tailed
 shiver-spar
 scrag-necked
@@ -582,8 +575,6 @@ shot-free
 bride-ale
 two-phase
 well-known
-aid-de-camp
-cul-de-sac
 hurly-burly
 ruby-tailed
 one-hand
@@ -630,13 +621,11 @@ double-bank
 moon-eyed
 stock-still
 self-commune
-merry-go-round
 flap-eared
 double-milled
 non-episcopal
 home-bred
 electro-chemistry
-pick-me-up
 connate-perfoliate
 so-called
 mope-eyed
@@ -665,7 +654,6 @@ men-pleaser
 two-ply
 self-accused
 five-leaf
-rez-de-chaussee
 fore-topmast
 like-minded
 hump-shouldered
@@ -775,7 +763,6 @@ anglo-saxondom
 tilt-up
 neuro-epidermal
 e-la
-jack-a-lent
 after-eatage
 arm-gret
 iron-fisted
@@ -785,7 +772,6 @@ feather-foil
 battering-ram
 glass-gazing
 side-wheel
-char-a-banc
 panic-struck
 go-by
 couple-beggar
@@ -946,7 +932,6 @@ gaff-topsail
 sessile-eyed
 copper-nickel
 mouse-ear
-daughter-in-law
 by-walk
 five-leafed
 bottle-nose
@@ -970,7 +955,6 @@ four-cycle
 world-wide
 hard-headed
 loup-loup
-vis-a-vis
 lock-weir
 night-blooming
 whole-souled
@@ -1010,11 +994,9 @@ neo-hegelian
 cinque-spotted
 rough-footed
 kohl-rabi
-fleur-de-lis
 sharp-witted
 hatti-sherif
 tres-tyne
-tripe-de-roche
 orang-outang
 thick-headed
 gas-burner
@@ -1049,7 +1031,6 @@ self-confidence
 electro-gilt
 step-up
 photo-engraving
-forget-me-not
 self-repelling
 heavy-armed
 ear-shell
@@ -1077,7 +1058,6 @@ full-orbed
 lotus-eater
 four-way
 infra-axillary
-vol-au-vent
 feat-bodied
 non-pros
 home-driven
@@ -1144,7 +1124,6 @@ twelfth-day
 powder-posted
 self-justifier
 shag-rag
-oeil-de-boeuf
 incito-motory
 uran-utan
 high-embowed
@@ -1176,7 +1155,6 @@ counter-courant
 egg-glass
 self-uned
 tailor-made
-out-of-door
 make-belief
 wind-plant
 tele-iconograph
@@ -1191,7 +1169,6 @@ lion-hearted
 wheel-worn
 straw-cutter
 liver-grown
-psitta-co-fulvine
 sauce-alone
 praise-meeting
 co-ally
@@ -1223,7 +1200,6 @@ wind-fertilized
 get-up
 heart-robbing
 uncalled-for
-penny-a-liner
 water-ret
 free-tongued
 un-mosaic
@@ -1238,7 +1214,6 @@ trundle-bed
 club-shaped
 alike-minded
 electro-puncture
-tous-les-mois
 abram-man
 dare-devil
 slit-shell
@@ -1264,7 +1239,6 @@ dog-weary
 case-bay
 close-stool
 looking-glass
-trou-de-loup
 mar-text
 craze-mill
 hotel-dieu
@@ -1281,12 +1255,10 @@ shot-proof
 trough-shell
 right-hand
 ovate-lanceolate
-jane-of-apes
 swine-pox
 self-destroyer
 nol-pros
 mad-headed
-high-churchman-ship
 extra-uterine
 nero-antico
 flap-mouthed
@@ -1375,7 +1347,6 @@ long-drawn
 idle-headed
 sultan-red
 star-read
-all-a-mort
 cross-bun
 cloud-burst
 thresh-fold
@@ -1537,7 +1508,6 @@ prompt-note
 self-conviction
 kidney-shaped
 lick-spittle
-tragi-comi-pastoral
 self-excite
 ill-timed
 loud-mouthed
@@ -1564,10 +1534,8 @@ flame-colored
 self-induction
 dry-shod
 round-up
-father-in-law
 worm-eaten
 decoy-man
-two-to-one
 ear-splitting
 large-acred
 smock-faced
@@ -1614,7 +1582,6 @@ mint-master
 straight-lined
 double-breasted
 to-beat
-hemi-demi-semiquaver
 apple-john
 grand-ducal
 kid-fox
@@ -1632,7 +1599,6 @@ huron-iroquous
 double-eyed
 ex-official
 another-guess
-son-in-law
 horse-chestnut
 quarter-deck
 re-mark
@@ -1686,7 +1652,6 @@ shoulder-shotten
 away-going
 cross-tie
 word-catcher
-noli-me-tangere
 ill-will
 cow-pilot
 harvest-home
@@ -1707,7 +1672,6 @@ high-stepper
 morning-glory
 sea-maid
 pink-eyed
-clan-na-gael
 jerry-builder
 counter-paly
 self-charity
@@ -1764,9 +1728,7 @@ by-name
 safe-conduct
 convexo-plane
 firmer-chisel
-oeil-de-perdrix
 horny-handed
-dos--dos
 eye-spot
 lily-livered
 scaly-winged
@@ -1783,7 +1745,6 @@ let-up
 blue-eyed
 not-pated
 weigh-house
-up-to-date
 alto-stratus
 dumb-waiter
 put-off
@@ -1793,17 +1754,14 @@ viz-cacha
 short-waisted
 feather-edged
 let-alone
-bric-a-brac
 high-built
 water-soak
 high-priestship
-cone-in-cone
 heart-spoon
 cross-examiner
 hand-hole
 sway-bracing
 hot-headed
-felo-de-se
 dog-hearted
 cup-rose
 oso-berry
@@ -1887,18 +1845,14 @@ bright-harnessed
 carnal-minded
 place-proud
 thread-shaped
-touch-me-not
 great-grandson
 kiln-dry
 brahmin-ical
 hard-favoredness
 three-quarter
-robe-de-chambre
 sand-blind
 electro-motive
 worn-out
-auto-da-fe
-whip-tom-kelly
 public-spirited
 shell-lac
 re-creation
@@ -1922,7 +1876,6 @@ good-fellowship
 self-ignorant
 pudding-headed
 set-fair
-sister-in-law
 self-centring
 good-natured
 demi-tasse
@@ -2039,7 +1992,6 @@ electro-chemical
 grass-green
 gravel-stone
 simple-hearted
-fee-faw-fum
 basso-relievo
 puff-legged
 red-letter
@@ -2059,7 +2011,6 @@ split-tongued
 crop-tailed
 saw-set
 black-jack
-whip-poor-will
 pillar-block
 scale-winged
 cross-examination
@@ -2088,11 +2039,9 @@ self-devotement
 cross-purpose
 three-mile
 court-craft
-tete-a-tete
 lute-backed
 horse-leechery
 saw-whet
-wait--while
 electro-kinetic
 cirro-cumulus
 anglo-catholicism
@@ -2106,7 +2055,6 @@ high-hearted
 absent-minded
 avant-guard
 frame-up
-tee-to-tum
 flea-bite
 night-faring
 main-gauche
@@ -2178,7 +2126,6 @@ erecto-patent
 air-slacked
 shovel-nosed
 reed-mace
-knight-er-ratic
 self-originating
 coarse-grained
 fire-fanged
@@ -2189,10 +2136,8 @@ july-flower
 up-line
 ill-lived
 snipper-snaper
-mother-of-thyme
 titter-totter
 pseudo-metallic
-four-in-hand
 namby-pamby
 wall-plat
 self-deceit
@@ -2229,7 +2174,6 @@ beef-witted
 left-handiness
 ideo-motion
 pock-pudding
-pot-au-feu
 fancy-sick
 new-model
 top-timbers
@@ -2324,7 +2268,6 @@ cross-buttock
 over-arm
 thrall-like
 top-heavy
-man-of-war
 up-wind
 copper-bottomed
 three-decker
@@ -2496,7 +2439,6 @@ well-being
 strap-shaped
 wall-eyed
 fool-born
-tac-au-tac
 cat-salt
 middle-earth
 faint-hearted
@@ -2507,7 +2449,6 @@ cross-armed
 coral-rag
 big-wigged
 janus-headed
-mother-in-law
 high-spirited
 re-form
 mad-apple
@@ -2525,7 +2466,6 @@ electro-motion
 sea-walled
 simple-minded
 heigh-ho
-half-and-half
 cross-eye
 blood-shotten
 water-colorist
@@ -2555,7 +2495,6 @@ weal-balanced
 another-gates
 tongue-shaped
 lean-witted
-cumu-cirro-stratus
 two-hand
 cloud-capped
 self-estimation
@@ -2572,12 +2511,10 @@ high-fed
 double-handed
 spoon-meat
 eye-minded
-aber-de-vine
 thirty-second
 true-bred
 spur-shell
 idle-pated
-fer-de-lance
 anglo-saxon
 cross-examine
 rix-dollar
@@ -2628,7 +2565,6 @@ micro-chemistry
 cony-catcher
 self-involution
 alder-liefest
-leg-of-mutton
 solid-drawn
 dull-browed
 shame-proof
@@ -2650,7 +2586,6 @@ secundo-geniture
 vulvo-uterine
 turn-buckle
 lady-killer
-out-of-the-way
 bishop-stool
 ring-necked
 linear-shaped
@@ -2708,7 +2643,6 @@ wire-drawer
 great-heartedness
 pike-devant
 bay-antler
-brother-in-law
 top-shell
 re-sign
 direct-coupled
@@ -2750,10 +2684,8 @@ smalt-blue
 sulphur-bottom
 chief-justiceship
 self-government
-mother-of-pearl
 wit-snapper
 by-passage
-sleep-at-noon
 by-dependence
 electro-dynamometer
 single-acting
@@ -2761,7 +2693,6 @@ smell-feast
 bed-molding
 feather-veined
 goody-goody
-shill-i-shall-i
 stereo-chemic
 self-reverence
 widow-wail
@@ -2781,8 +2712,6 @@ by-room
 semi-arianism
 pickle-herring
 bird-witted
-auto-de-fe
-in-and-in
 sack-winged
 counter-compony
 mule-jenny
@@ -2800,7 +2729,6 @@ anti-semitism
 self-begotten
 crown-saw
 self-seeker
-seek-no-further
 wide-angle
 long-sufferance
 hydra-tainted
@@ -2847,7 +2775,6 @@ fal-lals
 high-holder
 pot-bellied
 quick-wittedness
-cheval-de-frise
 willow-herb
 take-in
 gib-cat
@@ -2880,7 +2807,6 @@ ill-nurtured
 red-tapism
 farding-bag
 actino-chemistry
-cornet-a-piston
 pousse-cafe
 many-sided
 four-cornered
@@ -2975,7 +2901,6 @@ paymaster-general
 self-diffusive
 fellow-creature
 water-logged
-flower-de-luce
 great-bellied
 stone-cold
 prittle-prattle
@@ -3018,7 +2943,6 @@ mushroom-headed
 by-lane
 puddle-ball
 silver-gray
-tel-el-amarna
 free-martin
 trades-unionist
 saunders-blue
@@ -3051,7 +2975,6 @@ ill-minded
 mail-shell
 electro-magnetic
 open-mouthed
-tops-and-bottoms
 gutta-percha
 free-spoken
 feeble-minded
@@ -3094,7 +3017,6 @@ life-saving
 sea-island
 well-read
 screw-cutting
-jack-a-dandy
 christcross-row
 flos-ferri
 monkey-pot
