@@ -3,7 +3,7 @@ Some word lists for terms made of two words (joined using a space, hyphen, or no
 
 ## Files:
 
-* **hyphens-real-world-usage.json**: Top 100k hyphenated terms based on real-world usage (by crawling a corpus of book). You'll probably want to only grab the first ~10k items if you're looking for commonly-hyphenated terms. Each item is a 2-element array containing the term, and then the number of occurrances in the corpus.
+* **hyphens-real-world-usage.json**: Top 100k hyphenated terms based on real-world usage (by crawling a corpus of book). You'll probably want to only grab the first N thousand items, where N based on your requirements (see below for examples by index). Each item is a 2-element array containing the term, and then the number of occurrences of that term in the corpus.
 * **space.txt** ~3k terms composed of 2 space-separated words. They are from [this](https://github.com/matthewreagan/WebstersEnglishDictionary) Webster list.
 * **hyphen.txt**: ~3k hyphenated words. They are from [this](https://github.com/matthewreagan/WebstersEnglishDictionary) Webster list.
 * **nothing**: ~1.5k unhyphenated compound words, scraped from [here](https://www.enchantedlearning.com/wordlist/compoundwords.shtml).
