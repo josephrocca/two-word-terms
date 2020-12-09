@@ -39,7 +39,7 @@ console.log(top100k);
 
 ## hyphens-real-world-usage.json Examples By Index
 
-To help you understand where you might want to cut off the `hyphens-real-world-usage.json` list, here are some examples pulled from the list at index increments of 1000:
+To help you understand where you might want to cut off the `hyphens-real-world-usage.json` list, here are some examples pulled from the list at increasing indices:
 
 ```txt
     0: so-called, long-term, twenty-five, twenty-four, well-known, old-fashioned, e-mail, nineteenth-century, medium-high, well-being, t-shirt, all-purpose, short-term, middle-class, middle-aged, full-time, twenty-two, twenty-first, twenty-one, thirty-five
